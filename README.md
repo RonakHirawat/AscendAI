@@ -1,4 +1,4 @@
-# 🚀 ASCEND AI
+#  ASCEND AI 🚀
 
 **ASCEND AI** is an intelligent career guidance system that leverages Artificial Intelligence to predict salaries and recommend optimal job roles based on educational qualifications and work experience. It empowers individuals to make smarter career decisions across the domains of education, business, and sustainability.
 
