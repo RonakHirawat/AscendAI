@@ -1,16 +1,16 @@
-"use client";
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 // import { cn } from "../lib/utils";
 import { FloatingDock } from "./FloatingDock";
-import { IconHome, IconLogin2, IconUserPlus, IconCpu } from "@tabler/icons-react";
+import { IconHome, IconLogin2, IconUserPlus, IconCpu,IconBadge } from "@tabler/icons-react";
 
 export default function LampDemo() {
   const navItems = [
     { title: "Home", href: "/", icon: <IconHome /> },
     { title: "Login", href: "/login", icon: <IconLogin2 /> },
     { title: "Signup", href: "/signup", icon: <IconUserPlus /> },
-    { title: "Services", href: "/predictor", icon: <IconCpu /> },
+    { title: "Job pred", href: "/jpredictor", icon: <IconBadge /> },
+    { title: "Salary Pred", href: "/predictor", icon: <IconCpu /> },
   ];
 
   return (

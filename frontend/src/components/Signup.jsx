@@ -111,7 +111,7 @@ const Signup = () => {
   const navItems = [
     { title: "Home", href: "/", icon: <IconHome /> },
     { title: "Login", href: "/login", icon: <IconLogin2 /> },
-    { title: "Services", href: "/predictor", icon: <IconCpu /> },
+    { title: "Salary Pred", href: "/predictor", icon: <IconCpu /> },
     { title: "Job pred", href: "#", icon: <IconBadge /> },
   ];
 
