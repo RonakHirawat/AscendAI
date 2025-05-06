@@ -173,7 +173,8 @@
 import { useState } from "react";
 import { Boxes } from "../components/Boxes"; // ✅ Importing animated background
 import { FloatingDock } from "../components/FloatingDock"; // ✅ Importing Floating Dock
-import { IconHome, IconLogin2, IconUserPlus,IconBadge } from "@tabler/icons-react"; // ✅ Importing Icons
+import { IconHome, IconLogin2, IconUserPlus,IconBriefcase
+} from "@tabler/icons-react"; // ✅ Importing Icons
 
 const Predictor = () => {
     // ✅ Navigation Items for FloatingDock
@@ -181,7 +182,8 @@ const Predictor = () => {
         { title: "Home", href: "/", icon: <IconHome /> },
         { title: "Login", href: "/login", icon: <IconLogin2 /> },
         { title: "Signup", href: "/signup", icon: <IconUserPlus /> },
-        { title: "Job pred", href: "#", icon: <IconBadge /> },
+        { title: "Job pred", href: "jpredictor", icon: <IconBriefcase
+            /> },
     ];
 
     const [formData, setFormData] = useState({

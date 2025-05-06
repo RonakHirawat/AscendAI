@@ -1,0 +1,501 @@
+Job_Title,Experience,Industry,Required_Skills,Salary_USD
+Cybersecurity Analyst,mid,Entertainment,UX/UI Design,111392.1652
+Marketing Specialist,mid,Technology,Marketing,93792.56247
+AI Researcher,mid,Technology,UX/UI Design,107170.2631
+Sales Manager,mid,Retail,Project Management,93027.95376
+Cybersecurity Analyst,mid,Entertainment,JavaScript,87752.92217
+UX Designer,mid,Education,Cybersecurity,102825.0079
+HR Manager,mid,Finance,Sales,102065.7207
+Cybersecurity Analyst,mid,Technology,Machine Learning,86607.31762
+AI Researcher,mid,Retail,JavaScript,75015.86085
+Sales Manager,mid,Entertainment,Cybersecurity,96834.57829
+Marketing Specialist,mid,Finance,Python,91566.97338
+AI Researcher,mid,Entertainment,UX/UI Design,78902.56574
+AI Researcher,mid,Transportation,Python,73151.99035
+HR Manager,mid,Retail,Cybersecurity,98209.51688
+Product Manager,mid,Finance,JavaScript,101001.9011
+Sales Manager,mid,Telecommunications,UX/UI Design,82799.35771
+Software Engineer,mid,Manufacturing,Machine Learning,78401.25928
+AI Researcher,mid,Manufacturing,Project Management,73394.89622
+Product Manager,mid,Finance,UX/UI Design,97645.09878
+Software Engineer,mid,Entertainment,UX/UI Design,73920.45853
+Sales Manager,mid,Retail,JavaScript,134822.6914
+Data Scientist,mid,Manufacturing,JavaScript,81794.37128
+UX Designer,mid,Retail,Cybersecurity,41495.71444
+Product Manager,mid,Manufacturing,Data Analysis,89396.56667
+Operations Manager,mid,Transportation,UX/UI Design,88539.3304
+Data Scientist,mid,Entertainment,Sales,112234.3714
+UX Designer,mid,Transportation,UX/UI Design,95762.52473
+HR Manager,mid,Manufacturing,Cybersecurity,73323.29633
+Cybersecurity Analyst,mid,Telecommunications,Marketing,84272.16253
+Marketing Specialist,mid,Telecommunications,Python,96548.39543
+Operations Manager,mid,Transportation,Project Management,46705.71499
+HR Manager,mid,Telecommunications,Data Analysis,116772.4347
+Sales Manager,mid,Manufacturing,Machine Learning,73376.60228
+HR Manager,mid,Finance,Machine Learning,118340.8764
+Cybersecurity Analyst,mid,Transportation,Machine Learning,97849.30282
+Sales Manager,mid,Healthcare,JavaScript,102591.8827
+Operations Manager,mid,Entertainment,Machine Learning,112988.4687
+Cybersecurity Analyst,mid,Telecommunications,Project Management,101462.6411
+Software Engineer,mid,Telecommunications,Python,103457.7243
+Marketing Specialist,mid,Technology,Machine Learning,86711.67119
+Operations Manager,mid,Education,UX/UI Design,97443.37363
+Software Engineer,mid,Transportation,UX/UI Design,78250.0437
+UX Designer,mid,Energy,JavaScript,83131.77801
+Operations Manager,mid,Telecommunications,Project Management,129293.901
+UX Designer,mid,Entertainment,Python,73836.1283
+Sales Manager,mid,Healthcare,Data Analysis,93086.34253
+Software Engineer,mid,Telecommunications,Cybersecurity,92269.38073
+Marketing Specialist,mid,Healthcare,Python,83784.91056
+Cybersecurity Analyst,mid,Manufacturing,Cybersecurity,100288.0187
+AI Researcher,mid,Manufacturing,Marketing,101794.4419
+HR Manager,mid,Education,Cybersecurity,71483.61634
+Data Scientist,mid,Finance,Sales,92027.13423
+Marketing Specialist,mid,Energy,UX/UI Design,68352.65322
+Software Engineer,mid,Technology,Project Management,105770.9724
+AI Researcher,mid,Education,Communication,93529.74621
+Marketing Specialist,mid,Retail,JavaScript,91646.59773
+Software Engineer,mid,Technology,Sales,103180.627
+Product Manager,mid,Transportation,Cybersecurity,84489.79419
+Product Manager,mid,Entertainment,Machine Learning,108280.4392
+UX Designer,mid,Retail,Project Management,71031.10254
+Marketing Specialist,mid,Retail,Sales,118237.5304
+Product Manager,mid,Education,JavaScript,78981.77635
+Software Engineer,mid,Finance,UX/UI Design,56076.41865
+UX Designer,mid,Education,Project Management,83429.30183
+Software Engineer,mid,Transportation,JavaScript,81160.63605
+UX Designer,mid,Telecommunications,Marketing,83278.52028
+Marketing Specialist,mid,Telecommunications,Marketing,94632.96031
+AI Researcher,mid,Finance,JavaScript,111956.8472
+Cybersecurity Analyst,mid,Transportation,Sales,86165.88172
+Operations Manager,mid,Finance,Project Management,76167.6486
+AI Researcher,mid,Healthcare,Sales,67469.06375
+Sales Manager,mid,Telecommunications,Data Analysis,80636.34417
+Software Engineer,mid,Retail,Cybersecurity,52243.50321
+Sales Manager,mid,Energy,Data Analysis,75497.33813
+AI Researcher,mid,Entertainment,Marketing,114881.0779
+UX Designer,mid,Transportation,UX/UI Design,73532.81591
+Operations Manager,mid,Technology,Python,102574.3172
+Operations Manager,mid,Finance,Cybersecurity,65470.3582
+Data Scientist,mid,Entertainment,Marketing,125421.918
+Operations Manager,mid,Technology,Sales,126752.1347
+Cybersecurity Analyst,mid,Entertainment,Sales,101820.4311
+Operations Manager,mid,Energy,Sales,129825.052
+AI Researcher,mid,Technology,UX/UI Design,97115.8595
+Data Scientist,mid,Education,Data Analysis,105370.3423
+AI Researcher,mid,Manufacturing,Python,115238.6775
+AI Researcher,mid,Education,Sales,93594.36906
+HR Manager,mid,Telecommunications,Communication,58952.45077
+Data Scientist,mid,Manufacturing,Cybersecurity,105779.2671
+AI Researcher,mid,Education,Project Management,80562.80811
+HR Manager,mid,Manufacturing,Communication,82049.40358
+HR Manager,mid,Manufacturing,Python,95957.89833
+Data Scientist,mid,Retail,UX/UI Design,101325.6176
+Sales Manager,mid,Finance,Python,93002.69268
+UX Designer,mid,Finance,Project Management,102714.5907
+Cybersecurity Analyst,mid,Retail,Cybersecurity,75862.85732
+UX Designer,mid,Entertainment,Project Management,89145.92411
+Operations Manager,mid,Healthcare,JavaScript,106981.709
+Cybersecurity Analyst,mid,Entertainment,Cybersecurity,125455.8235
+Operations Manager,mid,Technology,Python,132528.7118
+AI Researcher,mid,Technology,Sales,98659.53365
+Software Engineer,mid,Manufacturing,Python,106800.1965
+Data Scientist,mid,Education,Python,129631.5833
+Cybersecurity Analyst,mid,Education,Cybersecurity,76583.27927
+Cybersecurity Analyst,mid,Finance,JavaScript,102593.9971
+AI Researcher,mid,Transportation,Python,105366.859
+Sales Manager,mid,Entertainment,Communication,118957.2287
+HR Manager,mid,Telecommunications,Marketing,67257.17239
+AI Researcher,mid,Energy,Machine Learning,71211.88432
+Product Manager,mid,Education,Machine Learning,90427.64422
+HR Manager,mid,Energy,Python,97554.55325
+Data Scientist,mid,Manufacturing,Communication,112457.2791
+HR Manager,mid,Energy,Sales,100350.8755
+Sales Manager,mid,Telecommunications,UX/UI Design,86971.7354
+HR Manager,mid,Retail,UX/UI Design,98329.2289
+Data Scientist,mid,Telecommunications,Cybersecurity,96020.88953
+Sales Manager,mid,Energy,Machine Learning,124900.3286
+UX Designer,mid,Telecommunications,Python,93313.17887
+Cybersecurity Analyst,mid,Healthcare,UX/UI Design,82338.33173
+Cybersecurity Analyst,mid,Manufacturing,Python,98992.1806
+Operations Manager,mid,Entertainment,Cybersecurity,93969.70639
+UX Designer,mid,Retail,Machine Learning,58580.13289
+UX Designer,mid,Education,Project Management,89686.95877
+HR Manager,mid,Technology,Marketing,87985.23509
+Cybersecurity Analyst,mid,Entertainment,Marketing,79122.56268
+Data Scientist,mid,Technology,UX/UI Design,110711.6658
+Marketing Specialist,mid,Manufacturing,Marketing,74286.40807
+Marketing Specialist,mid,Retail,Project Management,99112.37239
+Sales Manager,mid,Finance,Python,87042.86
+Cybersecurity Analyst,mid,Education,Cybersecurity,92153.90011
+Cybersecurity Analyst,mid,Healthcare,Project Management,98235.72582
+Marketing Specialist,mid,Finance,Cybersecurity,63848.51232
+Cybersecurity Analyst,mid,Manufacturing,Cybersecurity,93833.21783
+HR Manager,mid,Entertainment,Machine Learning,135778.9498
+Product Manager,mid,Healthcare,Python,58864.73308
+Software Engineer,mid,Telecommunications,Communication,88847.84073
+UX Designer,mid,Energy,Marketing,112464.7865
+Operations Manager,mid,Healthcare,Communication,96032.38496
+Sales Manager,mid,Manufacturing,Machine Learning,103759.339
+Product Manager,entry,Transportation,Cybersecurity,42486.67978
+Marketing Specialist,entry,Energy,UX/UI Design,101964.9875
+UX Designer,entry,Technology,Marketing,74766.23588
+Cybersecurity Analyst,entry,Education,Marketing,96197.54569
+Operations Manager,entry,Technology,Python,89411.30538
+Cybersecurity Analyst,entry,Healthcare,JavaScript,135566.6606
+Data Scientist,entry,Technology,Data Analysis,100933.9065
+Data Scientist,entry,Manufacturing,Data Analysis,87747.52341
+Operations Manager,entry,Telecommunications,Data Analysis,59806.14481
+Operations Manager,entry,Entertainment,JavaScript,92422.93804
+Marketing Specialist,entry,Education,Python,106464.5776
+Operations Manager,entry,Technology,JavaScript,88388.96216
+HR Manager,entry,Technology,Data Analysis,79886.8728
+Cybersecurity Analyst,entry,Healthcare,Machine Learning,78548.26672
+Product Manager,entry,Entertainment,Project Management,100702.8287
+AI Researcher,entry,Finance,Cybersecurity,105187.7588
+Operations Manager,entry,Technology,JavaScript,117224.2023
+Sales Manager,entry,Manufacturing,Python,70100.00214
+Data Scientist,entry,Transportation,Python,100519.5512
+HR Manager,entry,Education,Communication,87565.92091
+UX Designer,entry,Technology,Project Management,88155.31591
+AI Researcher,entry,Manufacturing,UX/UI Design,98036.51708
+Product Manager,entry,Manufacturing,Marketing,98153.12507
+AI Researcher,entry,Education,Data Analysis,100575.3621
+Operations Manager,entry,Finance,UX/UI Design,68850.57616
+Marketing Specialist,entry,Manufacturing,Communication,75003.77186
+Data Scientist,entry,Transportation,Data Analysis,119717.3655
+Data Scientist,entry,Manufacturing,Project Management,85588.55065
+UX Designer,entry,Manufacturing,Communication,96120.28796
+Marketing Specialist,entry,Manufacturing,Data Analysis,111093.3262
+Cybersecurity Analyst,entry,Telecommunications,Project Management,99268.86145
+Software Engineer,entry,Telecommunications,Sales,100930.4526
+HR Manager,entry,Finance,UX/UI Design,107891.5536
+Data Scientist,entry,Technology,UX/UI Design,47666.72478
+Sales Manager,entry,Manufacturing,Marketing,80200.9969
+Data Scientist,entry,Entertainment,Project Management,99372.11593
+AI Researcher,entry,Technology,JavaScript,117752.8861
+Data Scientist,entry,Finance,Sales,91321.91119
+Data Scientist,entry,Retail,Machine Learning,73105.67076
+Software Engineer,entry,Technology,Data Analysis,73638.27901
+Software Engineer,entry,Technology,Sales,107677.2241
+Product Manager,entry,Energy,Project Management,85644.52835
+Cybersecurity Analyst,entry,Healthcare,Cybersecurity,89855.99908
+Sales Manager,entry,Energy,Data Analysis,102300.6039
+Data Scientist,entry,Transportation,Python,31969.52635
+Data Scientist,entry,Telecommunications,UX/UI Design,130007.3502
+HR Manager,entry,Telecommunications,Project Management,75378.5233
+Software Engineer,entry,Healthcare,Python,94838.72739
+Sales Manager,entry,Education,Marketing,55906.05973
+UX Designer,entry,Education,Communication,81549.17779
+Product Manager,entry,Finance,Machine Learning,114893.7609
+Cybersecurity Analyst,entry,Healthcare,Machine Learning,51676.65641
+Marketing Specialist,entry,Technology,Python,112524.0017
+Cybersecurity Analyst,entry,Education,UX/UI Design,84526.07808
+AI Researcher,entry,Manufacturing,Marketing,99743.2888
+Data Scientist,entry,Entertainment,Cybersecurity,103150.4883
+Product Manager,entry,Technology,UX/UI Design,98828.42999
+AI Researcher,entry,Transportation,Sales,72700.98697
+Sales Manager,entry,Manufacturing,Machine Learning,82709.01707
+Marketing Specialist,entry,Manufacturing,Sales,60768.87645
+Software Engineer,entry,Healthcare,Data Analysis,99835.92663
+Product Manager,entry,Finance,JavaScript,124041.1031
+Product Manager,entry,Transportation,Project Management,53511.18227
+Data Scientist,entry,Education,Marketing,74767.08188
+Operations Manager,entry,Healthcare,UX/UI Design,86364.49448
+Product Manager,entry,Education,Machine Learning,93466.82847
+HR Manager,entry,Healthcare,Sales,107583.526
+Marketing Specialist,entry,Healthcare,Communication,86956.00039
+Marketing Specialist,entry,Healthcare,Data Analysis,83680.82547
+HR Manager,entry,Finance,Project Management,112062.6141
+UX Designer,entry,Healthcare,Project Management,103239.9113
+HR Manager,entry,Retail,UX/UI Design,100779.5595
+HR Manager,entry,Entertainment,Marketing,92250.31423
+Marketing Specialist,entry,Education,Cybersecurity,109663.0442
+Cybersecurity Analyst,entry,Technology,Communication,76873.81218
+Marketing Specialist,entry,Energy,UX/UI Design,74146.11436
+Operations Manager,entry,Transportation,Sales,104922.0197
+Data Scientist,entry,Telecommunications,JavaScript,57499.28062
+AI Researcher,entry,Finance,Python,91843.59019
+Cybersecurity Analyst,entry,Technology,Cybersecurity,83668.83295
+Software Engineer,entry,Manufacturing,Marketing,61884.90539
+AI Researcher,entry,Retail,Data Analysis,71374.64841
+Data Scientist,entry,Telecommunications,Cybersecurity,87820.47815
+Operations Manager,entry,Energy,Machine Learning,110679.2651
+Operations Manager,entry,Technology,Marketing,76940.84017
+Software Engineer,entry,Telecommunications,JavaScript,114267.628
+Cybersecurity Analyst,entry,Technology,Machine Learning,91263.58455
+UX Designer,entry,Retail,Cybersecurity,116207.694
+HR Manager,entry,Energy,Python,77910.16782
+Cybersecurity Analyst,entry,Manufacturing,Python,89023.80824
+UX Designer,entry,Healthcare,JavaScript,97369.67207
+Operations Manager,entry,Education,Project Management,86409.79075
+Marketing Specialist,entry,Manufacturing,Communication,109060.4829
+Data Scientist,entry,Healthcare,Data Analysis,45848.72549
+Software Engineer,entry,Finance,Project Management,138448.1108
+Data Scientist,entry,Entertainment,Python,107155.4921
+Sales Manager,entry,Transportation,Python,86529.36342
+Sales Manager,entry,Transportation,Sales,78953.56653
+Cybersecurity Analyst,entry,Education,Machine Learning,72671.58777
+Operations Manager,entry,Energy,Cybersecurity,102912.3095
+Operations Manager,entry,Retail,Data Analysis,109899.6334
+HR Manager,entry,Energy,JavaScript,86749.47744
+HR Manager,entry,Retail,Cybersecurity,112139.8083
+HR Manager,entry,Energy,Sales,71854.79906
+Marketing Specialist,entry,Entertainment,Python,68323.783
+AI Researcher,entry,Finance,JavaScript,126266.8241
+Product Manager,entry,Finance,Python,101822.1723
+AI Researcher,entry,Healthcare,Data Analysis,117936.964
+Data Scientist,entry,Telecommunications,Machine Learning,72921.20583
+AI Researcher,entry,Finance,Cybersecurity,71529.49216
+Marketing Specialist,entry,Finance,Cybersecurity,82827.81361
+Data Scientist,entry,Manufacturing,Project Management,73518.82317
+AI Researcher,entry,Manufacturing,JavaScript,104107.3042
+Marketing Specialist,entry,Healthcare,Communication,74977.47886
+Product Manager,entry,Telecommunications,Sales,66566.60284
+AI Researcher,entry,Education,Communication,92840.30825
+Marketing Specialist,entry,Manufacturing,Project Management,64200.27648
+HR Manager,entry,Education,Data Analysis,54010.72137
+Operations Manager,entry,Technology,Sales,92665.14468
+HR Manager,entry,Manufacturing,Machine Learning,55015.59914
+Operations Manager,entry,Entertainment,Communication,105505.5879
+Software Engineer,entry,Telecommunications,Machine Learning,62093.32547
+Software Engineer,entry,Healthcare,Communication,45186.52427
+Software Engineer,entry,Technology,Machine Learning,84124.067
+Product Manager,entry,Telecommunications,Communication,92891.89007
+HR Manager,entry,Entertainment,Machine Learning,99829.50127
+Operations Manager,entry,Telecommunications,Project Management,93440.31398
+Marketing Specialist,entry,Entertainment,Marketing,68813.74758
+Data Scientist,entry,Entertainment,Sales,104261.2236
+Marketing Specialist,entry,Education,JavaScript,109202.7701
+Data Scientist,entry,Energy,Data Analysis,65884.75743
+Sales Manager,entry,Technology,UX/UI Design,86379.87723
+Marketing Specialist,entry,Telecommunications,Python,84511.19946
+AI Researcher,entry,Retail,JavaScript,94407.63166
+AI Researcher,entry,Technology,Python,85901.52416
+Cybersecurity Analyst,entry,Energy,Sales,88642.44456
+HR Manager,entry,Technology,JavaScript,102836.3106
+Data Scientist,entry,Finance,Machine Learning,67722.93801
+Data Scientist,entry,Retail,Machine Learning,104747.4627
+HR Manager,entry,Energy,UX/UI Design,112822.6546
+Product Manager,entry,Education,Python,122682.6999
+Cybersecurity Analyst,entry,Telecommunications,Data Analysis,47132.65352
+Product Manager,entry,Transportation,Sales,86341.96686
+Product Manager,entry,Energy,Machine Learning,50697.98851
+Product Manager,entry,Healthcare,Marketing,41298.7262
+HR Manager,entry,Telecommunications,Project Management,92881.86095
+Product Manager,entry,Energy,Project Management,82016.96414
+AI Researcher,entry,Finance,Communication,95997.01904
+Software Engineer,entry,Transportation,Data Analysis,99722.5538
+Sales Manager,entry,Finance,Project Management,114957.9192
+Data Scientist,entry,Transportation,Communication,91078.40851
+Data Scientist,entry,Healthcare,Python,148467.1123
+Sales Manager,entry,Telecommunications,Machine Learning,96128.1971
+HR Manager,entry,Education,Machine Learning,126849.5809
+Marketing Specialist,entry,Finance,Marketing,43343.24399
+HR Manager,entry,Finance,JavaScript,116994.7906
+Data Scientist,entry,Entertainment,Project Management,86384.7902
+Data Scientist,entry,Transportation,Python,51033.05481
+Sales Manager,entry,Manufacturing,Cybersecurity,98410.90218
+Product Manager,entry,Telecommunications,Project Management,83940.88924
+HR Manager,entry,Transportation,Data Analysis,101601.065
+Operations Manager,entry,Entertainment,JavaScript,110221.5292
+Sales Manager,entry,Technology,Project Management,60216.99766
+AI Researcher,entry,Transportation,Python,110298.3796
+Data Scientist,entry,Education,Project Management,90129.58968
+Sales Manager,entry,Telecommunications,Data Analysis,117056.8235
+HR Manager,entry,Entertainment,Cybersecurity,85897.03542
+Data Scientist,entry,Technology,Sales,80591.82215
+Marketing Specialist,entry,Retail,UX/UI Design,90541.08081
+Sales Manager,entry,Entertainment,Cybersecurity,92037.21413
+Cybersecurity Analyst,entry,Retail,Communication,76744.30397
+Data Scientist,entry,Telecommunications,Project Management,80073.90538
+HR Manager,entry,Finance,Machine Learning,65462.48931
+Software Engineer,entry,Entertainment,Marketing,81307.0982
+Operations Manager,entry,Healthcare,Machine Learning,103526.2012
+UX Designer,entry,Retail,Cybersecurity,87252.91652
+Product Manager,entry,Education,Machine Learning,110181.3059
+UX Designer,entry,Healthcare,Python,86291.41065
+HR Manager,entry,Energy,Machine Learning,61369.64005
+AI Researcher,entry,Energy,JavaScript,101945.4978
+AI Researcher,entry,Technology,Sales,76527.53718
+Software Engineer,entry,Finance,Project Management,85332.65422
+Product Manager,entry,Telecommunications,Machine Learning,114751.4409
+Cybersecurity Analyst,entry,Entertainment,Data Analysis,66782.59081
+Software Engineer,entry,Manufacturing,Sales,93294.87575
+UX Designer,entry,Education,Sales,89189.633
+Software Engineer,entry,Retail,Machine Learning,104018.5143
+UX Designer,entry,Telecommunications,Sales,107103.0673
+Data Scientist,entry,Healthcare,Marketing,95276.78008
+AI Researcher,entry,Energy,Machine Learning,82792.50707
+Data Scientist,entry,Education,Python,99467.45008
+Operations Manager,entry,Manufacturing,Cybersecurity,116713.1179
+Product Manager,entry,Entertainment,JavaScript,89454.20121
+Cybersecurity Analyst,entry,Technology,UX/UI Design,84654.87771
+UX Designer,entry,Manufacturing,Communication,97763.40515
+Cybersecurity Analyst,entry,Education,Sales,90774.54041
+UX Designer,entry,Manufacturing,Python,63245.81152
+HR Manager,entry,Education,Project Management,94786.61601
+Software Engineer,entry,Education,Project Management,63064.75182
+Operations Manager,entry,Transportation,Communication,97489.61293
+AI Researcher,entry,Retail,JavaScript,74057.14551
+UX Designer,entry,Energy,Sales,90737.49608
+Cybersecurity Analyst,entry,Transportation,Marketing,97811.87812
+Operations Manager,entry,Entertainment,Communication,139078.0669
+Marketing Specialist,entry,Transportation,JavaScript,104854.9992
+Marketing Specialist,entry,Finance,Sales,117295.9762
+Data Scientist,entry,Finance,Python,127434.9564
+AI Researcher,entry,Energy,Cybersecurity,99785.11834
+HR Manager,entry,Manufacturing,Marketing,95713.79601
+Cybersecurity Analyst,entry,Retail,UX/UI Design,68665.57782
+Software Engineer,entry,Energy,Project Management,87667.40135
+Software Engineer,entry,Education,Data Analysis,75538.24541
+Cybersecurity Analyst,entry,Healthcare,Python,81978.823
+Product Manager,entry,Retail,Project Management,127413.2675
+HR Manager,entry,Retail,Machine Learning,92292.43018
+Operations Manager,entry,Education,Data Analysis,72482.00845
+UX Designer,entry,Education,Project Management,117490.6691
+Product Manager,entry,Technology,JavaScript,109105.5095
+UX Designer,entry,Energy,Marketing,110153.0699
+UX Designer,entry,Education,Project Management,49877.39594
+Product Manager,entry,Finance,UX/UI Design,128973.4192
+Data Scientist,entry,Entertainment,Cybersecurity,78829.70516
+Marketing Specialist,entry,Healthcare,JavaScript,105559.0955
+UX Designer,entry,Energy,Python,140475.9958
+Product Manager,entry,Telecommunications,Python,133106.655
+Product Manager,entry,Finance,Python,70448.75749
+Sales Manager,entry,Manufacturing,Python,61109.65326
+Data Scientist,entry,Education,Cybersecurity,118606.932
+AI Researcher,entry,Telecommunications,Project Management,92841.11623
+Sales Manager,entry,Education,Sales,79982.37117
+Sales Manager,entry,Retail,Project Management,102424.3709
+Cybersecurity Analyst,entry,Finance,Machine Learning,86742.40845
+Marketing Specialist,entry,Retail,Marketing,104026.4827
+Product Manager,entry,Technology,Data Analysis,91339.63616
+Marketing Specialist,entry,Retail,Sales,104447.7586
+HR Manager,entry,Technology,Sales,72109.34622
+Cybersecurity Analyst,entry,Technology,Project Management,118489.2403
+AI Researcher,entry,Telecommunications,Sales,103952.4674
+Marketing Specialist,entry,Education,Communication,102925.9474
+Software Engineer,entry,Manufacturing,Communication,67646.60146
+UX Designer,entry,Retail,Machine Learning,123992.6483
+HR Manager,entry,Finance,Data Analysis,89725.67801
+Data Scientist,entry,Technology,UX/UI Design,104560.9772
+AI Researcher,entry,Education,Cybersecurity,83543.51073
+HR Manager,entry,Healthcare,Project Management,95217.78129
+UX Designer,entry,Energy,Cybersecurity,95942.54704
+Cybersecurity Analyst,senior,Telecommunications,UX/UI Design,33601.38136
+UX Designer,senior,Manufacturing,Project Management,101648.9625
+Sales Manager,senior,Transportation,Project Management,129306.8292
+UX Designer,senior,Telecommunications,Data Analysis,100795.6052
+Sales Manager,senior,Healthcare,Cybersecurity,70845.83502
+Cybersecurity Analyst,senior,Energy,Communication,102999.2313
+Operations Manager,senior,Healthcare,Python,111189.6106
+Sales Manager,senior,Retail,Cybersecurity,100249.3303
+Data Scientist,senior,Technology,Marketing,88517.45787
+UX Designer,senior,Manufacturing,Marketing,85157.01548
+UX Designer,senior,Entertainment,Project Management,85073.80489
+Data Scientist,senior,Technology,Python,103955.538
+Software Engineer,senior,Entertainment,JavaScript,61857.5201
+Product Manager,senior,Energy,UX/UI Design,82562.53678
+Operations Manager,senior,Education,Machine Learning,121912.1965
+AI Researcher,senior,Transportation,Python,122683.9053
+Sales Manager,senior,Finance,Machine Learning,60437.05824
+Data Scientist,senior,Technology,Cybersecurity,67371.72777
+Cybersecurity Analyst,senior,Manufacturing,Cybersecurity,84587.58841
+Sales Manager,senior,Healthcare,Machine Learning,107851.7903
+Product Manager,senior,Manufacturing,UX/UI Design,53450.51292
+Cybersecurity Analyst,senior,Energy,Python,88903.8273
+HR Manager,senior,Entertainment,JavaScript,80516.41687
+UX Designer,senior,Healthcare,Project Management,116519.2935
+HR Manager,senior,Finance,Data Analysis,56461.83052
+Sales Manager,senior,Finance,Cybersecurity,91850.81231
+Product Manager,senior,Technology,Marketing,82127.81125
+Operations Manager,senior,Energy,UX/UI Design,119395.9785
+Sales Manager,senior,Education,Data Analysis,101953.0529
+Data Scientist,senior,Energy,JavaScript,78283.68681
+Marketing Specialist,senior,Entertainment,Sales,107067.7289
+Sales Manager,senior,Manufacturing,Project Management,82223.42293
+UX Designer,senior,Finance,Cybersecurity,109986.5942
+UX Designer,senior,Manufacturing,Project Management,85258.46018
+Sales Manager,senior,Manufacturing,Data Analysis,111093.3316
+Cybersecurity Analyst,senior,Manufacturing,Project Management,98721.6391
+Marketing Specialist,senior,Finance,Sales,155209.8216
+Data Scientist,senior,Telecommunications,Data Analysis,88942.07989
+Sales Manager,senior,Retail,Cybersecurity,97657.24583
+Cybersecurity Analyst,senior,Entertainment,Python,80411.50517
+UX Designer,senior,Telecommunications,Marketing,90053.70682
+UX Designer,senior,Entertainment,Data Analysis,35963.29732
+Product Manager,senior,Healthcare,Communication,99311.68033
+Sales Manager,senior,Energy,Sales,116857.4843
+Marketing Specialist,senior,Energy,Data Analysis,97932.60009
+Software Engineer,senior,Transportation,Data Analysis,63722.77084
+Marketing Specialist,senior,Energy,Communication,73964.25695
+UX Designer,senior,Finance,Cybersecurity,41396.15746
+UX Designer,senior,Education,Data Analysis,109578.4801
+HR Manager,senior,Technology,Marketing,69869.73415
+UX Designer,senior,Transportation,Project Management,89425.8282
+Data Scientist,senior,Technology,Cybersecurity,86925.24855
+AI Researcher,senior,Entertainment,Marketing,119754.5407
+Sales Manager,senior,Technology,Cybersecurity,91705.62636
+Marketing Specialist,senior,Technology,Marketing,106177.8584
+AI Researcher,senior,Transportation,Sales,100929.2753
+Cybersecurity Analyst,senior,Healthcare,Marketing,117188.2284
+Software Engineer,senior,Manufacturing,Machine Learning,85217.52611
+Data Scientist,senior,Energy,Marketing,127392.3066
+Marketing Specialist,senior,Energy,Python,50286.75687
+AI Researcher,senior,Finance,Python,107149.47
+Software Engineer,senior,Transportation,UX/UI Design,72667.60783
+HR Manager,senior,Finance,Machine Learning,80145.00894
+Data Scientist,senior,Education,Machine Learning,101388.2853
+Data Scientist,senior,Education,Project Management,101228.041
+HR Manager,senior,Finance,Machine Learning,102128.5603
+Sales Manager,senior,Transportation,Project Management,62276.84112
+HR Manager,senior,Finance,UX/UI Design,118980.6046
+Data Scientist,senior,Energy,UX/UI Design,71987.05764
+Data Scientist,senior,Telecommunications,Sales,74654.2582
+AI Researcher,senior,Retail,Python,102757.9348
+UX Designer,senior,Technology,Marketing,84265.5765
+Software Engineer,senior,Retail,Marketing,96165.21681
+HR Manager,senior,Transportation,Communication,46867.98607
+Software Engineer,senior,Retail,Communication,95686.48899
+HR Manager,senior,Education,JavaScript,94356.63759
+Cybersecurity Analyst,senior,Entertainment,Cybersecurity,79802.82924
+Data Scientist,senior,Technology,Sales,48518.4808
+UX Designer,senior,Manufacturing,JavaScript,85743.83477
+AI Researcher,senior,Transportation,JavaScript,89252.5228
+UX Designer,senior,Technology,Data Analysis,82655.42019
+UX Designer,senior,Retail,Data Analysis,53276.51071
+UX Designer,senior,Education,JavaScript,121894.6801
+Software Engineer,senior,Healthcare,Machine Learning,77222.76944
+HR Manager,senior,Telecommunications,Cybersecurity,85555.90674
+Operations Manager,senior,Manufacturing,Sales,41810.51358
+Cybersecurity Analyst,senior,Telecommunications,JavaScript,121897.107
+Marketing Specialist,senior,Technology,Marketing,80669.00137
+UX Designer,senior,Education,Cybersecurity,91969.25634
+Sales Manager,senior,Education,Data Analysis,112414.7489
+Software Engineer,senior,Retail,Marketing,76473.91591
+AI Researcher,senior,Energy,Data Analysis,109264.8997
+Marketing Specialist,senior,Retail,Data Analysis,48773.49088
+Operations Manager,senior,Energy,Cybersecurity,101019.7332
+Sales Manager,senior,Energy,Data Analysis,121444.8433
+Operations Manager,senior,Manufacturing,UX/UI Design,78391.66306
+Marketing Specialist,senior,Retail,Python,112377.6324
+UX Designer,senior,Healthcare,UX/UI Design,126678.453
+Sales Manager,senior,Finance,Python,84903.16324
+Operations Manager,senior,Finance,Communication,83249.43428
+AI Researcher,senior,Retail,Communication,72034.12508
+HR Manager,senior,Retail,Data Analysis,79805.3969
+Data Scientist,senior,Telecommunications,Sales,73692.80219
+HR Manager,senior,Manufacturing,Sales,72017.77803
+Marketing Specialist,senior,Retail,Python,113976.7059
+Software Engineer,senior,Telecommunications,Marketing,74201.47949
+Data Scientist,senior,Energy,Cybersecurity,95170.43829
+Cybersecurity Analyst,senior,Education,Data Analysis,90764.6687
+AI Researcher,senior,Education,Cybersecurity,119961.8913
+Cybersecurity Analyst,senior,Energy,UX/UI Design,79936.87536
+Sales Manager,senior,Transportation,Sales,97622.96093
+Data Scientist,senior,Telecommunications,Machine Learning,105821.394
+Cybersecurity Analyst,senior,Telecommunications,UX/UI Design,119794.9921
+Cybersecurity Analyst,senior,Energy,UX/UI Design,79644.9331
+Operations Manager,senior,Healthcare,Python,77642.15063
+HR Manager,senior,Entertainment,Project Management,68764.37892

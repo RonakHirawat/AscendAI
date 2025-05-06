@@ -7,7 +7,7 @@
 // //       <meta charSet="UTF-8" />
 // //       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 // //       <title>Signup - AscendAI</title>
-      
+
 // //       <header className="bg-gray-800 text-white p-4 text-center">
 // //         <h1 className="text-2xl font-bold">Signup</h1>
 // //         <nav>
@@ -21,7 +21,7 @@
 // //           </ul>
 // //         </nav>
 // //       </header>
-      
+
 // //       <main className="flex justify-center items-center h-screen bg-gray-100">
 // //         <section className="bg-white p-6 rounded-lg shadow-lg w-80">
 // //           <h2 className="text-xl font-semibold text-center mb-4">Create a New Account</h2>
@@ -104,15 +104,20 @@
 import React from "react";
 import { Boxes } from "../components/Boxes"; // ✅ Importing animated background
 import { FloatingDock } from "../components/FloatingDock"; // ✅ Importing Floating Dock
-import { IconHome, IconLogin2, IconCpu,IconBadge } from "@tabler/icons-react"; // ✅ Importing Icons
+import {
+  IconHome, IconLogin2, IconCoinRupee, IconBriefcase
+} from "@tabler/icons-react"; // ✅ Importing Icons
 
 const Signup = () => {
   // ✅ Navigation Items for FloatingDock
   const navItems = [
     { title: "Home", href: "/", icon: <IconHome /> },
     { title: "Login", href: "/login", icon: <IconLogin2 /> },
-    { title: "Salary Pred", href: "/predictor", icon: <IconCpu /> },
-    { title: "Job pred", href: "#", icon: <IconBadge /> },
+    { title: "Salary Pred", href: "/predictor", icon: <IconCoinRupee /> },
+    {
+      title: "Job pred", href: "jpredictor", icon: <IconBriefcase
+      />
+    },
   ];
 
   return (
@@ -122,9 +127,9 @@ const Signup = () => {
       <title>Signup - AscendAI</title>
 
       {/* Floating Navigation Bar */}
-      <FloatingDock 
-        items={navItems} 
-        desktopClassName="fixed top-16 left-1/2 -translate-x-1/2 z-50" 
+      <FloatingDock
+        items={navItems}
+        desktopClassName="fixed top-16 left-1/2 -translate-x-1/2 z-50"
         mobileClassName="fixed top-16 right-4 z-50"
       />
 
@@ -138,26 +143,26 @@ const Signup = () => {
             Create a New Account
           </h2>
           <form className="flex flex-col space-y-5 w-full">
-            <input 
-              type="text" 
-              placeholder="Full Name" 
-              required 
-              className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" 
+            <input
+              type="text"
+              placeholder="Full Name"
+              required
+              className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
-            <input 
-              type="email" 
-              placeholder="Email" 
-              required 
-              className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" 
+            <input
+              type="email"
+              placeholder="Email"
+              required
+              className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
-            <input 
-              type="password" 
-              placeholder="Password" 
-              required 
-              className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" 
+            <input
+              type="password"
+              placeholder="Password"
+              required
+              className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
-            <button 
-              type="submit" 
+            <button
+              type="submit"
               className="bg-blue-600 text-white p-3 rounded-md hover:bg-blue-700 transition-all"
             >
               Signup

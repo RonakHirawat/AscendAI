@@ -1,26 +1,25 @@
 import { useState } from "react";
 import { Boxes } from "../components/Boxes";
 import { FloatingDock } from "../components/FloatingDock";
-import { IconHome, IconLogin2, IconUserPlus, IconBadge } from "@tabler/icons-react";
+import { IconHome, IconLogin2, IconUserPlus, IconCoinRupee } from "@tabler/icons-react"; // Adjust path as needed
 
+// Dummy skill options; replace or import if needed
+const skillOptions = [
+    "Python", "Java", "SQL", "Excel", "Machine Learning",
+    "Data Analysis", "Project Management", "Communication",
+    "Leadership", "Cloud Computing", "UI/UX Design", "Cybersecurity"
+];
+
+// Dummy navigation items for FloatingDock
 const navItems = [
     { title: "Home", href: "/", icon: <IconHome /> },
     { title: "Login", href: "/login", icon: <IconLogin2 /> },
     { title: "Signup", href: "/signup", icon: <IconUserPlus /> },
-    { title: "Job pred", href: "/jpredictor", icon: <IconBadge /> },
-];
-
-const skillOptions = [
-    "Python", "Java", "C++", "SQL", "Excel", "Risk Analysis", "Financial Modeling",
-    "SEO", "Content Writing", "Google Ads", "Social Media", "Machine Learning",
-    "Customer Service", "Sales", "Merchandising", "Production Planning",
-    "Quality Control", "Supply Chain", "Teaching", "Curriculum Design", "Research",
-    "Medical Research", "Nursing", "Patient Care", "Pharmaceuticals", "React", "EdTech",
-    "Market Research", "AWS"
+    { title: "Salary Pred", href: "/predictor", icon: <IconCoinRupee /> },
 ];
 
 const JobPredictor = () => {
-    const [experience, setExperience] = useState("Entry Level"); // Match backend format
+    const [industry, setIndustry] = useState("Technology");
     const [selectedSkills, setSelectedSkills] = useState([]);
     const [predictedJob, setPredictedJob] = useState(null);
 
@@ -34,15 +33,27 @@ const JobPredictor = () => {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-        const response = await fetch("http://127.0.0.1:5000/jobpredictor", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ experience, skills: selectedSkills }),
-        });
-
-        const data = await response.json();
-        setPredictedJob(data.predicted_job || data.error);
+        const formData = new URLSearchParams();
+        formData.append("industry", industry);
+        formData.append("skills", selectedSkills.join(", "));
+    
+        try {
+            const response = await fetch("http://127.0.0.1:5000/", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded",
+                },
+                body: formData.toString(),
+            });
+    
+            const data = await response.json(); // <-- expect JSON now
+            setPredictedJob(data.prediction || "Prediction not found");
+        } catch (error) {
+            console.error("Error during prediction:", error);
+            setPredictedJob("Error occurred while predicting.");
+        }
     };
+    
 
     return (
         <>
@@ -56,42 +67,46 @@ const JobPredictor = () => {
                 <Boxes className="absolute inset-0 z-0" />
 
                 <main className="relative z-10 bg-white p-8 rounded-lg shadow-xl w-[30rem] flex flex-col items-center">
-                    <h2 className="text-lg font-medium text-center mb-4 text-gray-700">
-                        Predict Your Job Title
-                    </h2>
-                    <form onSubmit={handleSubmit} className="flex flex-col space-y-4 w-full">
-                        <label className="text-gray-700 font-medium">Experience Level:</label>
-                        <select
-                            value={experience}
-                            onChange={(e) => setExperience(e.target.value)}
-                            className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
-                        >
-                            <option value="Entry Level">Entry Level</option>
-                            <option value="Mid Level">Mid Level</option>
-                            <option value="Senior Level">Senior Level</option>
-                        </select>
-
-                        <label className="text-gray-700 font-medium">Select Your Skills:</label>
-                        <div className="grid grid-cols-2 gap-2 max-h-48 overflow-y-auto border p-3 rounded-md">
-                            {skillOptions.map(skill => (
-                                <label key={skill} className="flex items-center space-x-2 text-sm">
-                                    <input
-                                        type="checkbox"
-                                        value={skill}
-                                        checked={selectedSkills.includes(skill)}
-                                        onChange={() => handleSkillToggle(skill)}
-                                    />
-                                    <span>{skill}</span>
-                                </label>
-                            ))}
+                    <h2 className="text-2xl font-semibold text-center text-gray-700 mb-4">Predict Job Title</h2>
+                    <form onSubmit={handleSubmit} className="w-full">
+                        <div className="mb-4">
+                            <label htmlFor="industry" className="text-lg text-gray-700 font-medium">Industry:</label><br />
+                            <select
+                                id="industry"
+                                value={industry}
+                                onChange={(e) => setIndustry(e.target.value)}
+                                className="p-3 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 w-full"
+                            >
+                                <option value="Technology">Technology</option>
+                                <option value="Finance">Finance</option>
+                                <option value="Healthcare">Healthcare</option>
+                                <option value="Retail">Retail</option>
+                                <option value="Education">Education</option>
+                            </select>
                         </div>
 
-                        <button
+                        <div className="mb-4">
+                            <label htmlFor="skills" className="text-lg text-gray-700 font-medium">Required Skill:</label><br />
+                            <div className="grid grid-cols-2 gap-2 max-h-48 overflow-y-auto p-3 border rounded-md">
+                                {skillOptions.map(skill => (
+                                    <label key={skill} className="flex items-center space-x-2 text-sm">
+                                        <input
+                                            type="checkbox"
+                                            value={skill}
+                                            checked={selectedSkills.includes(skill)}
+                                            onChange={() => handleSkillToggle(skill)}
+                                        />
+                                        <span>{skill}</span>
+                                    </label>
+                                ))}
+                            </div>
+                        </div>
+
+                        <input
                             type="submit"
-                            className="bg-blue-600 text-white p-3 rounded-md hover:bg-blue-700 transition-all"
-                        >
-                            Predict Job
-                        </button>
+                            value="Predict"
+                            className="bg-blue-600 text-white p-3 rounded-md hover:bg-blue-700 transition-all w-full"
+                        />
                     </form>
 
                     {predictedJob && (

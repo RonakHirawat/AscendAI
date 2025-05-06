@@ -1,15 +1,17 @@
 import React from "react";
 import { Boxes } from "../components/Boxes"; // ✅ Importing animated background
 import { FloatingDock } from "../components/FloatingDock"; // ✅ Importing Floating Dock
-import { IconHome, IconUserPlus, IconCpu, IconBadge } from "@tabler/icons-react"; // ✅ Importing Icons
+import { IconHome, IconUserPlus, IconCoinRupee, IconBriefcase
+} from "@tabler/icons-react"; // ✅ Importing Icons
 
 const Login = () => {
   // ✅ Navigation Items for FloatingDock
   const navItems = [
     { title: "Home", href: "/", icon: <IconHome /> },
     { title: "Signup", href: "/signup", icon: <IconUserPlus /> },
-    { title: "Salary Pred", href: "/predictor", icon: <IconCpu /> },
-    { title: "Job pred", href: "/jpredictor", icon: <IconBadge /> },
+    { title: "Salary Pred", href: "/predictor", icon: <IconCoinRupee /> },
+    { title: "Job pred", href: "/jpredictor", icon: <IconBriefcase
+      /> },
   ];
 
   return (
